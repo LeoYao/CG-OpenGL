@@ -1,0 +1,36 @@
+
+#cube
+local_illumination enabled
+shadow disabled
+eye 0 0 -2
+viewCenter 0 0 -1
+lenOfXinCoord 2
+lenOfYinCoord 2
+scale disabled
+
+########################################################################
+# Don't use the following configuration, if you enabled "scale"
+########################################################################
+#al.obj
+#local_illumination enabled
+#shadow disabled
+#eye 0 0 4
+#viewCenter 0 0 3
+#lenOfXinCoord 2
+#lenOfYinCoord 2
+
+#car
+#local_illumination enabled
+#shadow disabled
+#eye 0 0 -80
+#viewCenter 0 0 -60
+#lenOfXinCoord 80
+#lenOfYinCoord 80
+
+#dolphins
+#local_illumination enabled
+#shadow disabled
+#eye 0 0 -600
+#viewCenter 0 0 -300
+#lenOfXinCoord 600
+#lenOfYinCoord 600

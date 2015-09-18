@@ -1,0 +1,16 @@
+mtllib triangle1.mtl
+#g
+v -1 1 -0.5
+v -1 -1 -0.5
+v 0 0 -0.5
+v 1 1 -1
+v 1 -1 -1
+v -1 0 -1
+
+g triangle1
+usemtl red
+f 1 2 3
+
+g triangle2
+usemtl green
+f 4 5 6
